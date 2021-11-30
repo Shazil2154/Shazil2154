@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shazil2154
 - 👀 I’m interested in Web development frameworks and technologies related to javaScript and machine learning.
-- 🌱 I’m currently learning Node and React.
+- 🌱 I’m currently learning Nextjs and running microservices in Nodejs.
 - 💞️ I’m looking to collaborate on amazing and innovative MERN stack projects.
 - 📫 You can reach me at my
 Email: sattarshazil@gmail.com
